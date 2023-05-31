@@ -3,8 +3,7 @@ basico con :
 2 - router
 3 - yup
 4 - formik
-5 - yup
 6 - standar
 proyecto instalado con estas dependencia y sin confiruraciones
-solo tiene u hola mundo
 tiene el slint de standar configurado ya
+no logre que cuando regreso a "/users" salga la ingo actualizada todo esta en consola
